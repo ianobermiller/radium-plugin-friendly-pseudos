@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ianobermiller/radium-plugin-friendly-pseudos/issues"
   },
-  "homepage": "https://github.com/ianobermiller/radium-plugin-friendly-pseudos#readme"
+  "homepage": "https://github.com/ianobermiller/radium-plugin-friendly-pseudos#readme",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
 }
