@@ -1,0 +1,26 @@
+{
+  "name": "radium-plugin-friendly-pseudos",
+  "version": "1.0.0",
+  "description": "Radium plugin for easier to type pseudo classes, such as onHover instead of ':hover'",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianobermiller/radium-plugin-friendly-pseudos.git"
+  },
+  "keywords": [
+    "radium",
+    "radium-plugin",
+    "plugin",
+    "react",
+    "inline-styles"
+  ],
+  "author": "Ian Obemiller <ian@obermillers.com> (http://ianobermiller.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianobermiller/radium-plugin-friendly-pseudos/issues"
+  },
+  "homepage": "https://github.com/ianobermiller/radium-plugin-friendly-pseudos#readme"
+}
